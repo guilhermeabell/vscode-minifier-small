@@ -5,6 +5,6 @@
 
 ## After debugging its code, local dependency errors were found, making it impossible for the small vscode to run locally;
 
-## Projeto desenvolvido em ElectronJS por Mario Souto.
+
 
 # :octocat:
